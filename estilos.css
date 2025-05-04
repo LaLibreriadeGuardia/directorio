@@ -4,7 +4,8 @@
 	}
     *{
         font-family: "Product Sans Regular";
-    color: rgb(255, 255, 255);}    
+    color: rgb(255, 255, 255);}  
+    
 body{
     background: #5bc9f5;
 background: linear-gradient(0deg,rgba(91, 201, 245, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
@@ -14,11 +15,13 @@ h1{
     margin: 0em 0em 0em 0em;
     display: flex;
     justify-content: center;
+    text-align: center;
    
 }
 h2{
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 hr{
     
@@ -28,8 +31,9 @@ hr{
     margin-top: 2em;
     background-color: rgba(0, 0, 0, 0.3);
     padding: 3em 0.5em 2em 0.5em ;
-    margin-inline: 5em;
+    margin-inline: 10vw;
     border-radius: 0.5em;
+    overflow-wrap: break-word;  
 }
 #botonera{   
 }
@@ -44,6 +48,7 @@ hr{
     justify-content: center;
     margin-top: 1em;
     margin-inline: 2em;
+    text-align: center;
 }
 
 
