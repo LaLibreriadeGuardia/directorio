@@ -10,7 +10,7 @@ body{
 background: linear-gradient(0deg,rgba(91, 201, 245, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
 }
 h1{
-    font-size: 4em;
+    font-size: 3em;
     margin: 0em 0em 0em 0em;
     display: flex;
     justify-content: center;
@@ -21,7 +21,8 @@ h2{
     justify-content: center;
 }
 hr{
-    color: rgba(0, 0, 0, 0.2);
+    
+    background-color: rgba(0, 0, 0, 0.2);
 }
 #panel{
     margin-top: 2em;
@@ -36,7 +37,7 @@ hr{
 .boton{
     border-radius: 0.25em;
     padding: 0.5em 0.25em 0.5em 0.25em;
-    font-size: 2em;
+    font-size: 1em;
     background-color: rgba(0, 0, 0, 0.2);
     color: rgb(255, 255, 255);
     display: flex;
