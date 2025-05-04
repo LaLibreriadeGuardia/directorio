@@ -24,15 +24,19 @@ h2{
     justify-content: center;
     text-align: center;
 }
+h3{
+    text-align: center;
+    font-size: 3vw;
+}
 hr{
     
     background-color: rgba(0, 0, 0, 0.2);
 }
 #panel{
-    margin-top: 2em;
+    margin-top: 2vw;
     /*background-color: rgba(0, 0, 0, 0.3);*/
     padding: 3em 0.5em 2em 0.5em ;
-    margin-inline: 10vw;
+    margin-inline: 2vw;
     border-radius: 0.5em;
     overflow-wrap: break-word;  
 }
@@ -50,7 +54,7 @@ hr{
     display: flex;
     justify-content: center;
     margin-top: 1em;
-    margin-inline: 2em;
+    margin-inline: 2vw;
     text-align: center;
 }
 
