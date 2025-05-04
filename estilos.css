@@ -7,8 +7,9 @@
     color: rgb(255, 255, 255);}  
     
 body{
-    background: #5bc9f5;
-background: linear-gradient(0deg,rgba(91, 201, 245, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    background: #0c56eb;
+    background: linear-gradient(0deg, rgba(12, 86, 235, 1) 25%, rgba(6, 6, 71, 1) 90%);
+
 }
 h1{
     font-size: 3em;
@@ -29,16 +30,18 @@ hr{
 }
 #panel{
     margin-top: 2em;
-    background-color: rgba(0, 0, 0, 0.3);
+    /*background-color: rgba(0, 0, 0, 0.3);*/
     padding: 3em 0.5em 2em 0.5em ;
     margin-inline: 10vw;
     border-radius: 0.5em;
     overflow-wrap: break-word;  
 }
 #botonera{   
+    margin-top: 3vw;
 }
 
 .boton{
+
     border-radius: 0.25em;
     padding: 0.5em 0.25em 0.5em 0.25em;
     font-size: 1em;
