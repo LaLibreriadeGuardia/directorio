@@ -7,6 +7,7 @@
     color: rgb(255, 255, 255);}  
     
 body{
+    margin: 0;
     background: #0c56eb;
     background: linear-gradient(0deg, rgba(12, 86, 235, 1) 25%, rgba(6, 6, 71, 1) 90%);
 
@@ -57,5 +58,19 @@ hr{
     margin-inline: 2vw;
     text-align: center;
 }
-
-
+footer{
+    height: 5em;
+    padding-top: 1vw;
+    margin-top: 3vw;
+    background-color: rgb(20, 20, 20);
+    
+    justify-content: center;
+}
+#links{
+    display: flex;
+    justify-content: center;
+}
+#tt{
+    height: 2em;
+    
+}
